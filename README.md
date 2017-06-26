@@ -143,8 +143,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [x] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [x] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
 - [x] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
-- [ ] [What is machine learning, and how does it work? (need VPN)](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
-- [ ] [Deep Learning - A Non-Technical Introduction (need VPN)](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
+- [x] [What is machine learning, and how does it work? (need VPN) (can skip)](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
+- [x] [Deep Learning - A Non-Technical Introduction (need VPN) (can skip)](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## Machine learning mastery (not that good)
 - [x] [The Machine Learning Mastery Method (introduce a top-bottom method to learn ML instead of the traditional bottom-top way)](http://machinelearningmastery.com/machine-learning-mastery-method/)
@@ -173,11 +173,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
 ## Stories and experiences
-- [ ] [Machine Learning in a Week (need VPN)](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
-- [ ] [Machine Learning in a Year (need VPN)](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
-- [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
-- [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
-- [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
+- [x] [Machine Learning in a Week (need VPN) (found the Scikit-learn Machine Learning with Python and SKlearn videos)](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
+- [x] [Machine Learning in a Year (need VPN)](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
+- [x] [How I wrote my first Machine Learning program in 3 days (can skip)](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
+- [ ] [Learning Path : Your mentor to become a machine learning expert (useful)](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
+- [ ] [Learning Path : Data Science in Python (useful)](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
+- [x] [You Too Can Become a Machine Learning Rock Star! No PhD (can skip)](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
 - [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
     - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
     - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
