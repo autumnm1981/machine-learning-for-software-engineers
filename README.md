@@ -179,7 +179,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Learning Path : Your mentor to become a machine learning expert (useful)](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [Learning Path : Data Science in Python (useful)](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 - [x] [You Too Can Become a Machine Learning Rock Star! No PhD (can skip)](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
-- [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
+- [x] How to become a Data Scientist in 6 months: A hacker’s approach to career planning (pay attention to the reference at the end of the slide)
     - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
     - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
 - [ ] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
